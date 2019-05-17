@@ -20,9 +20,7 @@ function setup() {
 
 
 
-      /*for  (var i = 0; i < 5; i++) {
-       ellipse(200 + sin(frameCount/10) * 30,
-       100+(i*50), 40, 40); */
+      
     }
     strokeWeight(100)
     stroke(0, random(80, 100))
